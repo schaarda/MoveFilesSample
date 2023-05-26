@@ -1,2 +1,7 @@
 /.gradle/
 /.idea/
+/modules/ComponentA/.gradle/
+/modules/ComponentA/.gradle/
+/modules/ComponentA/build/
+/modules/ComponentB/.gradle/
+/modules/ComponentB/build/
